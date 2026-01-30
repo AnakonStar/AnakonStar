@@ -1,6 +1,6 @@
 # Opa! Eu sou Enzo Lima de Santana 👋
 
-Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursando o 5º semestre de Ciência da Computação na Universidade São Judas Tadeu (USJT). Sempre busco aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre aberto a novas oportunidades de aprendizado. 😉
+Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia, com 2 anos de experiência em minha área! Atualmente, estou cursando o 7º semestre de Ciência da Computação na Universidade São Judas Tadeu (USJT). Sempre busco aprender novas tecnologias e aprimorar minhas habilidades. Estou sempre aberto a novas oportunidades de aprendizado. 😉
 
 <!--
 ## Contatos
@@ -73,6 +73,14 @@ Sou um desenvolvedor Full Stack Jr na Nuvem3 Tecnologia! Atualmente, estou cursa
 - **[Projeto 3](#)**: Descrição breve do projeto e seu objetivo.
 
 -->
+
+## 🏆 Formação
+
+### Ensino técnico integrado ao médio (Desenvolvimento de Sistemas - DS) 
+ETEC - Taboão da Serra - ETIM
+
+### Ciências da Computação
+USJT - EAD - Bacharelado/Graduação
 
 ## 🏆 Conquistas e Certificações
 
